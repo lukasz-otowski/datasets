@@ -8,6 +8,8 @@
 universe.json<br>
 society_job.json<br>
 society_shop.json<br>
+society_vehicle.json<br>
+society_airship.json<br>
 society_religion.json<br>
 society_person_trait.json<br>
 society_public_place.json<br>
