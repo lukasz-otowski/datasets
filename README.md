@@ -7,8 +7,10 @@
 #### created by myself:
 universe.json<br>
 society_job.json<br>
+society_shop.json<br>
 society_religion.json<br>
 society_person_trait.json<br>
+society_public_place.json<br>
 society_person_mental_disorder.json<br>
 mammal_human_body_complexion.json<br>
 mammal_human_body_eye_color.json<br>
